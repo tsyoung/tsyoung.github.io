@@ -1,47 +1,34 @@
 # Qingyang Yuan 袁庆洋
-<head>
-<link rel="shortcut icon" href="./imgs/myIcon.jpg">
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="keywords" content="Renjie Liao, Liao Renjie, CS, Machine Learning, Computer Vision, UofT, University of Toronto">
-<meta name="description" content="Renjie Liao's home page">
-<link rel="stylesheet" href="./css/jemdoc.css" type="text/css" />
-<title>Renjie Liao</title>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-99569700-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</head>
-<body >
-
-<div id="layout-content" style="margin-top:25px">
-
+<canvas width="300" height="300" id="myCanvas"></canvas>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>
+			Yuan
+		</title>
+	</head>
+	<body>
+<div id="layout-content" style="margin-top:3px">
 <table>
 	<tbody>
 		<tr>
 			<td width="670">
 				<div id="toptitle">
-					<h1>Renjie Liao &nbsp <img src="./imgs/lrj_chinese.png" height="45px" style="margin-bottom:-10px"><h1>
+					<h1>Qingyang Yuan <h1>
 				</div>
 
-				<h3>PhD</h3>
+				<h3>Master</h3>
 			  <p>
-					Department of Computer Science</br>
-					University of Toronto </br>
-          6 King's College Rd, Pratt Building 263 </br>
-          Toronto, Ontario, M5S 3G4 </br>
-          Canada </br>
+					School of Reliability and Sestems Engineering</br>
+					Beihang University </br>
+          XueYuan Road No.37 </br>
+          HaiDian District,BeiJing, 100191 </br>
+          China </br>
           </br>
-				Email: rjliao at cs dot toronto dot edu</p>
+				Email: tsyoung.yuan@buaa.edu.cn</p>
 			<td>
-				<img src="./imgs/me_pencil.png" border="0" width="200"></br>
-				<center>This pencil sketch is generated </br> by Prof. <a href="https://cvsjtu.wordpress.com/">Cewu Lu</a>'s algorithm.</center>
-			</td>
+				<img src="./img/a.jpg" border="0" width="200"></br>
+				</td>
 		<tr>
 	</tbody>
 </table>
