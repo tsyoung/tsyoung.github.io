@@ -1,26 +1,12 @@
 # Qingyang Yuan 袁庆洋
-<!DOCTYPE html>
 <html>
 	<style>
 		div{
             width: 840px;
             font-size: 21px;
-            /*margin-left: 262px;假设屏幕是1024，div宽度500，剩下524，除以2得到262，让div居中
-                但是当浏览器缩小的时候，又不居中了。应该用margin:0 auto*/
             margin: 0 auto;
             margin-bottom: 30px;
-            /*line-height: 50px;
-            文本没有紧贴上方显示，加上行高跟字体大小一样，就可以紧贴着显示*/
-            /*margin-top: 20px;
-            margin-left: 50px;
-            margin-right: 50px;
-            margin-bottom: 20px;*/
-            /*上面等价于，margin:20px 50px 50px 20px;顺序是上右下左
-                如果是margin:20px 50px;就是上下20px，左右50px
-                如果margin:20px;是上下左右都是20px
-                如果margin:20px 50px 20px;是上20px，左和右是50px，下是20px*/
-            text-align: justify;/*文字两端对齐。*/
-            /*border会影响文字的区域，但是不会改变div的大小。*/
+            text-align: justify;
         }
         p{
             font-family:"century gothic";font-size: 17px;
@@ -32,8 +18,6 @@
 		<title>
 			Yuan
 		</title>
-	
-	
 <div id="name">
 <table border="0" >
 	<tbody>
