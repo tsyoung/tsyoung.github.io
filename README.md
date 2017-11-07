@@ -15,22 +15,21 @@
     </style>
 	<head>
 		<meta charset="utf-8" />
-<div id="name">
 <table border="0" >
 	<tbody>
 		<tr>
 			<td width="560">
 				<h1>Qingyang Yuan 袁庆洋<h1>
 				<h3>Master</h3>
-			  <p>School of Reliability and Sestems Engineering</br>
-					Beihang University </br>
-          XueYuan Road No.37 </br>
-          HaiDian District, BeiJing, 100191 </br>
-          China </br>
-          </br>
+			  <p>School of Reliability and Sestems Engineering<br />
+					Beihang University <<br />
+          XueYuan Road No.37 <br />
+          HaiDian District, BeiJing, 100191 <br />
+          China <br />
+          <br />
 				Email: tsyoung.yuan@buaa.edu.cn</p>
 				<td>
-				<img src="./1.jpg" border="0" width="270"></br>
+				<img src="./1.jpg" border="0" width="270"><br />
 				</td>			
 		</tr>
 	</tbody>
@@ -42,10 +41,10 @@
 <h3>Biography</h3>
 <p>
   <li>2011.09-2015.06: <a href="http://smss.buaa.edu.cn/">School of Mathematics and Systems Science</a> (Beihang University)
-  	</br>Applied Mathematics: Hualuogeng Experimental class (GPA: 3.27)
-  </br>Secretary of the movie club: planning activities, organizing collective viewing, communicating with community members, managing funds </br></br>
+  	<br />Applied Mathematics: Hualuogeng Experimental class (GPA: 3.27)
+  <br />Secretary of the movie club: planning activities, organizing collective viewing, communicating with community members, managing funds <br /><br />
   <li>2015.09- Present: <a href="http://rse.buaa.edu.cn/">School of Reliability and System Engineering</a> (Beihang University)  
-  </br>Environmental Engineering for Products (GPA: 3.55)  </br>Student of <a href="http://rse.buaa.edu.cn/teacher/lixiaogang.html">Xiaogang Li</a></li>
+  <br />Environmental Engineering for Products (GPA: 3.55) <br />Student of <ahref="http://rse.buaa.edu.cn/teacher/lixiaogang.html">Xiaogang Li</a></li>
 </p>
 </div>
 <div id="Engineering Experience">
@@ -58,19 +57,19 @@
 <div id="publications">
 <h3>Academic thesis</h3>
 <ul>
-  <li>
-    <a href="./papers/BLDC电机温度退化多段维纳过程建模.pdf">Multistage degradation modeling for BLDC motor based on Wiener process,</br></a>
-    <b>Qingyang Yuan</b>, Jianhua Ye, Xiaogang Li</br>
-    <em>Journal of Beijing University of Aeronautics and Astronautics</em> (<b>BHXB</b>), 2017. </br>
+  <li> <a href="./papers/BLDC电机温度退化多段维纳过程建模.pdf">Multistage degradation modeling for BLDC motor based on Wiener process,</a>
+
+    <b>Qingyang Yuan</b>, Jianhua Ye, Xiaogang Li<<br />
+    <em>Journal of Beijing University of Aeronautics and Astronautics</em> (<b>BHXB</b>), 2017. <br />
     <p style="margin-top:3px"></p>
   </li>
    <li>
-    <a href="./papers/Multistage degradation modeling for BLDC motor based on Wiener process(RE04).pdf">Multistage degradation modeling for BLDC motor based on Wiener process,</br></a>
-     <b>Qingyang Yuan</b>, Yuankai Gao, Xiaogang Li</br>
-    <em>International Conference on Reliability Engineering</em> (<b>ICRE</b>), 2017. </br>
+    <a href="./papers/Multistage degradation modeling for BLDC motor based on Wiener process(RE04).pdf">Multistage degradation modeling for BLDC motor based on Wiener process,<br /></a>
+     <b>Qingyang Yuan</b>, Yuankai Gao, Xiaogang Li<br />
+    <em>International Conference on Reliability Engineering</em> (<b>ICRE</b>), 2017. <br />
     <p style="margin-top:3px"></p>
   </li>
-    </br>
+    <br />
 </ul>
 </div>
 <div id="skill">
