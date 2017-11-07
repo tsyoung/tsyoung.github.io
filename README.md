@@ -1,7 +1,7 @@
 # Qingyang Yuan 袁庆洋
 <html>
 	<style>
-		div{
+	div{
             width: 840px;
             font-size: 21px;
             margin: 0 auto;
