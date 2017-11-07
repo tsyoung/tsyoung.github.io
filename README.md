@@ -6,7 +6,6 @@
 	<tbody>
 		<tr>
 			<td width="560">
-				<h1>Qingyang Yuan 袁庆洋<h1>
 				<h3>Master</h3>
 			  <p>School of Reliability and Sestems Engineering<br />
 					Beihang University <<br />
