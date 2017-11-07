@@ -3,9 +3,6 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>
-			Yuan
-		</title>
 	</head>
 	<body>
 <div id="layout-content" style="margin-top:3px">
@@ -13,9 +10,6 @@
 	<tbody>
 		<tr>
 			<td width="670">
-				<div id="toptitle">
-					<h1>Qingyang Yuan <h1>
-				</div>
 				<h3>Master</h3>
 			  <p>
 					School of Reliability and Sestems Engineering</br>
