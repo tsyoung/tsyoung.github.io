@@ -67,7 +67,7 @@
 </div>
 <div id="awards">
 <h3>Honors & Awards</h3>
-<table style="border-spacing:3px";>
+<table>
 	<tbody>
 		<tr><td><i>First prize in National Physics Competition</i>, 2009(top50 each province).</td></tr>
 		<tr><td><I>First prize in Freshman Scholarship</I> , Beihang University, 2011.</td></tr>
