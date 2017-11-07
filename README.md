@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-<table border="0" >
+<table>
 	<tbody>
 		<tr>
 			<td width="560">
