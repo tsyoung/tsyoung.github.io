@@ -16,7 +16,6 @@
 				<div id="toptitle">
 					<h1>Qingyang Yuan <h1>
 				</div>
-
 				<h3>Master</h3>
 			  <p>
 					School of Reliability and Sestems Engineering</br>
@@ -32,7 +31,6 @@
 		<tr>
 	</tbody>
 </table>
-
 <h2>Biography</h2>
 <p>
   I'm a PhD student in <a href="http://learning.cs.toronto.edu/">Machine Learning Group</a>, Department of Computer Science, University of Toronto. My advisors are Prof. <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a> and Prof. <a href="http://www.cs.toronto.edu/~zemel/inquiry/home.php">Richard Zemel</a>. I'm also a Researcher in <a href="https://www.uber.com/info/atg/">Uber Advanced Technology Group</a> Toronto, lead by Prof. <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>. I received M.Phil. degree from Department of Computer Science and Engineering, Chinese University of Hong Kong, under the supervision of Prof. <a href="http://www.cse.cuhk.edu.hk/~leojia/">Jiaya Jia</a>. I got B.Eng. degree from School of Automation Science and Electrical Engineering in Beihang University (former Beijing University of Aeronautics and Astronautics). I've had the good fortune of working with some smart "<a href="./coworkers.html">neural networks</a>". </p>
