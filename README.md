@@ -15,9 +15,6 @@
     </style>
 	<head>
 		<meta charset="utf-8" />
-		<title>
-			Yuan
-		</title>
 <div id="name">
 <table border="0" >
 	<tbody>
