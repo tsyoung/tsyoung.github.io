@@ -8,7 +8,7 @@
 			<td width="560">
 				<h3>Master</h3>
 			  <p>School of Reliability and Sestems Engineering<br />
-					Beihang University <<br />
+					Beihang University <br />
           XueYuan Road No.37 <br />
           HaiDian District, BeiJing, 100191 <br />
           China <br />
