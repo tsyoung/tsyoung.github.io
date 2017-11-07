@@ -1,18 +1,5 @@
 # Qingyang Yuan 袁庆洋
 <html>
-	<style>
-	div{
-            width: 840px;
-            font-size: 21px;
-            margin: 0 auto;
-            margin-bottom: 30px;
-            text-align: justify;
-        }
-        p{
-            font-family:"century gothic";font-size: 17px;
-        }
-        li        {font-family:"century gothic";font-size: 17px;}
-    </style>
 	<head>
 		<meta charset="utf-8" />
 <table border="0" >
@@ -58,8 +45,7 @@
 <h3>Academic thesis</h3>
 <ul>
   <li> <a href="./papers/BLDC电机温度退化多段维纳过程建模.pdf">Multistage degradation modeling for BLDC motor based on Wiener process,</a>
-
-    <b>Qingyang Yuan</b>, Jianhua Ye, Xiaogang Li<<br />
+    <b>Qingyang Yuan</b>, Jianhua Ye, Xiaogang Li<br />
     <em>Journal of Beijing University of Aeronautics and Astronautics</em> (<b>BHXB</b>), 2017. <br />
     <p style="margin-top:3px"></p>
   </li>
