@@ -33,7 +33,7 @@
           </br>
 				Email: tsyoung.yuan@buaa.edu.cn</p>
 				<td>
-				<img src="./img/1.jpg" border="0" width="270"></br>
+				<img src="./1.jpg" border="0" width="270"></br>
 				</td>			
 		</tr>
 	</tbody>
