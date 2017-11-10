@@ -16,7 +16,7 @@
 						Email: tsyoung.yuan@buaa.edu.cn</p>
 					<td>
 						<img src="./1.jpg" border="0" width="270"><br />
-	</table>
+
 <div id="biography">
 		<h3>Biography</h3>
 			<p>
