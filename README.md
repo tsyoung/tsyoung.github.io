@@ -2,10 +2,10 @@
 <html>
 	<meta charset="utf-8" />
 <div id="table">
-		<table>
-			<tbody>
-				<tr>
-					<td width="560">
+	<table>
+		<tbody>
+			<tr>
+				<td width="560">
 						<h3>Master</h3>
 			  			<p>School of Reliability and Sestems Engineering<br />
 						Beihang University <br />
@@ -16,7 +16,8 @@
 						Email: tsyoung.yuan@buaa.edu.cn</p>
 					<td>
 						<img src="./1.jpg" border="0" width="270"><br />
-
+		</tbody>
+	</table>
 <div id="biography">
 		<h3>Biography</h3>
 			<p>
@@ -63,8 +64,8 @@
 		<tr><td><i>First prize in National Physics Competition</i>, 2009(top50 each province).</td></tr>
 		<tr><td><I>First prize in Freshman Scholarship</I> , Beihang University, 2011.</td></tr>
 		<tr><td><I>Third prize in College Physics Competition</I>,  Beihang University, 2012.</td></tr>
-	    <tr><td><I>First prize in National College Physics Competition (Beijing Area)</I>, 2012.</td></tr>
-	    <tr><td><I>Xinhua Elite Scholarship</I>, 2013.</td></tr>
+	    	<tr><td><I>First prize in National College Physics Competition (Beijing Area)</I>, 2012.</td></tr>
+	    	<tr><td><I>Xinhua Elite Scholarship</I>, 2013.</td></tr>
 		<tr><td><I>First prize in Scholarship for Academic Competition</I>, 2013.</td></tr>
 		<tr><td><I>Honorable Mention</I>, <a href="http://www.comap.com/">American Mathematical Modeling Contest</a>, USA, 2014.</td></tr>
 		<tr><td><I>First prize in Postgraduate Freshman Scholarship</I>.</td></tr>
