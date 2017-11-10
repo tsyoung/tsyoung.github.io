@@ -11,11 +11,13 @@
           					XueYuan Road No.37 <br />
           					HaiDian District, BeiJing, 100191 <br />
           					China <br />
-          					<br /></td>
+          					<br />
+				</td>
 						Email: tsyoung.yuan@buaa.edu.cn</p>
-			<td>
+				<td>
 						<img src="./1.jpg" border="0" width="270"><br />
-				</td></tr>
+				</td>
+			</tr>
 		</tbody>
 	</table>
 <div id="biography">
