@@ -1,6 +1,7 @@
 # Qingyang Yuan 袁庆洋
 <html>
 	<meta charset="utf-8" />
+<div id="table">
 		<table>
 			<tbody>
 				<tr>
@@ -15,8 +16,8 @@
 						Email: tsyoung.yuan@buaa.edu.cn</p>
 					<td>
 						<img src="./1.jpg" border="0" width="270"><br />
-</table>
-	<div id="biography">
+	</table>
+<div id="biography">
 		<h3>Biography</h3>
 			<p>
   		<li>2011.09-2015.06: <a href="http://smss.buaa.edu.cn/">School of Mathematics and Systems Science</a> (Beihang University)
@@ -24,7 +25,6 @@
   		<br />Secretary of the movie club: planning activities, organizing collective viewing, communicating with community members, managing funds <br /><br />
   		<li>2015.09- Present: <a href="http://rse.buaa.edu.cn/">School of Reliability and System Engineering</a> (Beihang University)  
 	  	<br />Environmental Engineering for Products (GPA: 3.55) <br />Student of 			<a href="http://rse.buaa.edu.cn/teacher/lixiaogang.html">Xiaogang Li</a></li>
-		</p>
 
 <div id="Engineering Experience">
 	<h3>Engineering Experience</h3>
@@ -66,7 +66,7 @@
 	    <tr><td><I>First prize in National College Physics Competition (Beijing Area)</I>, 2012.</td></tr>
 	    <tr><td><I>Xinhua Elite Scholarship</I>, 2013.</td></tr>
 		<tr><td><I>First prize in Scholarship for Academic Competition</I>, 2013.</td></tr>
-		<tr><td><I>Honorable Mention</I>, American Mathematical Modeling Contest</a>, USA, 2014.</td></tr>
+		<tr><td><I>Honorable Mention</I>, <a href="http://www.comap.com/">American Mathematical Modeling Contest</a>, USA, 2014.</td></tr>
 		<tr><td><I>First prize in Postgraduate Freshman Scholarship</I>.</td></tr>
 		<tr><td><I>Second prize in Annual Postgraduate Academic Scholarship</I>,2016.</td></tr>
 	</tbody>
