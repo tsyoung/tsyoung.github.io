@@ -2,19 +2,9 @@
 <html>
 	<meta charset="utf-8" />
 <div id="table">
-<table>
-	<tbody>
-		<td width="560"><tr><h3>Master</h3>
-			  			<p>School of Reliability and Sestems Engineering<br />
-						Beihang University <br />
-          					XueYuan Road No.37 <br />
-          					HaiDian District, BeiJing, 100191 <br />
-          					China </tr><tr></tr></td>
-						Email: tsyoung.yuan@buaa.edu.cn</p>				
-		<td><img src="./1.jpg" border="0" width="270"></td>
-
-	</tbody>
-</table>
+<h3>Master</h3>
+		<p>School of Reliability and Sestems Engineering<br />Beihang University <br />XueYuan Road No.37 <br />HaiDian District, BeiJing, 100191 <br />China Email: tsyoung.yuan@buaa.edu.cn</p>				
+<img src="./1.jpg" border="0" width="270",style="float:right">
 
 <div id="biography">
 		<h3>Biography</h3>
