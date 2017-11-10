@@ -15,9 +15,6 @@
 						Email: tsyoung.yuan@buaa.edu.cn</p>
 					<td>
 						<img src="./1.jpg" border="0" width="270"><br />
-					</td>			
-				</tr>
-		</tbody>
 </table>
 	<div id="biography">
 		<h3>Biography</h3>
@@ -26,15 +23,14 @@
   		<br />Applied Mathematics: Hualuogeng Experimental class (GPA: 3.27)
   		<br />Secretary of the movie club: planning activities, organizing collective viewing, communicating with community members, managing funds <br /><br />
   		<li>2015.09- Present: <a href="http://rse.buaa.edu.cn/">School of Reliability and System Engineering</a> (Beihang University)  
-	  	<br />Environmental Engineering for Products (GPA: 3.55) <br />Student of 			<ahref="http://rse.buaa.edu.cn/teacher/lixiaogang.html">Xiaogang Li</a></li>
+	  	<br />Environmental Engineering for Products (GPA: 3.55) <br />Student of 			<a href="http://rse.buaa.edu.cn/teacher/lixiaogang.html">Xiaogang Li</a></li>
 		</p>
-	</div>
-	<div id="Engineering Experience">
-		<h3>Engineering Experience</h3>
-    		<li> 2015.12- 2016.04: Corrosion test for magnesium alloy RUU unit shell </li>
-   		 <li> 2016.09- 2017.05: Accelerated life test for Brushless DC motor</li>
-   		 <li> 2017.06- present: FMEA and failure diagnosis for Reduction gearbox</li>
-	</div>
+
+<div id="Engineering Experience">
+	<h3>Engineering Experience</h3>
+    	<li> 2015.12- 2016.04: Corrosion test for magnesium alloy RUU unit shell </li>
+   	 <li> 2016.09- 2017.05: Accelerated life test for Brushless DC motor</li>
+   	 <li> 2017.06- present: FMEA and failure diagnosis for Reduction gearbox</li>
 
 <div id="publications">
 <h3>Academic thesis</h3>
@@ -52,14 +48,14 @@
   </li>
     <br />
 </ul>
-</div>
+
 <div id="skill">
 <h3>Personal Skill</h3>
     <li> Proficient in mathematical software MATLAB</li>
     <li> Proficient in simulation software ANSYS, OrCAD, calce, COMSOL</li>
     <li> Familiar in computer language C，python, HTML5</li>
     <li> Proficient with common software Word, Excel, Flash, Photoshop, Latex</li>
-</div>
+
 <div id="awards">
 <h3>Honors & Awards</h3>
 <table>
@@ -75,13 +71,12 @@
 		<tr><td><I>Second prize in Annual Postgraduate Academic Scholarship</I>,2016.</td></tr>
 	</tbody>
 </table>
-</div>
+
 <div id="habbits">
 <h3>Miscellany</h3>
 <p>Hobbies: Swimming, Basketball, Badminton, PC Games.</p>
 
 <p>Last Updated by Renjie: Nov 08 2017</p>
-</div>
 
 </html>
 
