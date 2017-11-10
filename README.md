@@ -1,7 +1,6 @@
 # Qingyang Yuan 袁庆洋
 <html>
-	<head>
-		<meta charset="utf-8" />
+	<meta charset="utf-8" />
 		<table>
 			<tbody>
 				<tr>
@@ -18,10 +17,8 @@
 						<img src="./1.jpg" border="0" width="270"><br />
 					</td>			
 				</tr>
-			</tbody>
-		</table>
-	</head>
-<body>
+		</tbody>
+</table>
 	<div id="biography">
 		<h3>Biography</h3>
 			<p>
@@ -85,6 +82,6 @@
 
 <p>Last Updated by Renjie: Nov 08 2017</p>
 </div>
-</body>
+
 </html>
 
