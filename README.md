@@ -1,4 +1,4 @@
-# Qingyang Yuan 袁庆洋2
+# Qingyang Yuan 袁庆洋1
 <html>
 	<meta charset="utf-8" />
 <div id="table">
@@ -11,9 +11,10 @@
           					HaiDian District, BeiJing, 100191 <br />
           					China <br /><br /></td>
 						Email: tsyoung.yuan@buaa.edu.cn</p>				
-		<td><img src="./1.jpg" border="0" width="270"><br /></td></tr>
+		<td><img src="./1.jpg" border="0" width="270"></td></tr>
 	</tbody>
 </table>
+
 <div id="biography">
 		<h3>Biography</h3>
 			<p>
@@ -72,8 +73,4 @@
 <div id="habbits">
 <h3>Miscellany</h3>
 <p>Hobbies: Swimming, Basketball, Badminton, PC Games.</p>
-
 <p>Last Updated by Renjie: Nov 08 2017</p>
-
-</html>
-
