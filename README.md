@@ -5,7 +5,7 @@
 <div id="table">
 <h3>Master</h3>
 		<p>School of Reliability and Sestems Engineering<br />Beihang University <br />XueYuan Road No.37 <br />HaiDian District, BeiJing, 100191 <br />China <br />Email: tsyoung.yuan@buaa.edu.cn</p>				
-<img src="./1.jpg" border="0" width="270" style="float: right; hight: 100;"> <br />
+<img src="./1.jpg" border="0" width="270" style="float: right; hight: 80px;"> <br />
 </div>
 <div id="biography">
 		<h3>Biography</h3>
