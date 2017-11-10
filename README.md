@@ -4,18 +4,18 @@
 <div id="table">
 	<table>
 		<tbody>
-			<tr>
-				<td width="560">
+			<tr><td width="560">
 						<h3>Master</h3>
 			  			<p>School of Reliability and Sestems Engineering<br />
 						Beihang University <br />
           					XueYuan Road No.37 <br />
           					HaiDian District, BeiJing, 100191 <br />
           					China <br />
-          					<br />
+          					<br /></td>
 						Email: tsyoung.yuan@buaa.edu.cn</p>
-					<td>
+			<td>
 						<img src="./1.jpg" border="0" width="270"><br />
+				</td></tr>
 		</tbody>
 	</table>
 <div id="biography">
