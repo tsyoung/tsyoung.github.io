@@ -1,15 +1,15 @@
-# Qingyang Yuan 袁庆洋1
+# Qingyang Yuan 袁庆洋2
 <html>
 	<meta charset="utf-8" />
 <div id="table">
 <table>
 	<tbody>
-		<td width="560"><h3>Master</h3>
+		<td width="560"><tr><h3>Master</h3>
 			  			<p>School of Reliability and Sestems Engineering<br />
 						Beihang University <br />
           					XueYuan Road No.37 <br />
           					HaiDian District, BeiJing, 100191 <br />
-          					China <br /><br /></td>
+          					China </tr><tr></tr></td>
 						Email: tsyoung.yuan@buaa.edu.cn</p>				
 		<td><img src="./1.jpg" border="0" width="270"></td>
 
